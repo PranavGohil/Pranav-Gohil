@@ -1,4 +1,4 @@
-👋 Hello, I'm [Pranav Gohil]!
+👋 Hello, I'm **Pranav Gohil!**
 
 ### **About Me**
 
